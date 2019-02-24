@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "category": 1,
+        "name": "ipad",
+        "price": 2399
+    },
+    {
+        "id": 2,
+        "category": 1,
+        "name": "螢幕",
+        "price": 1799
+    },
+    {
+        "id": 3,
+        "category": 4,
+        "name": "啤酒",
+        "price": 25
+    },
+    {
+        "id": 4,
+        "category": 2,
+        "name": "麵包",
+        "price": 9
+    },
+    {
+        "id": 5,
+        "category": 2,
+        "name": "蔬菜",
+        "price": 5.98
+    },
+    {
+        "id": 6,
+        "category": 3,
+        "name": "餐巾紙",
+        "price": 3.20
+    }
+]
+

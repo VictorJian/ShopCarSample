@@ -1,0 +1,9 @@
+packages/*
+
+ShopCarApp/bin/*
+ShopCarApp/obj/*
+ShopCarApp/App.config
+
+UnitTestApp/bin/*
+UnitTestApp/obj/*
+UnitTestApp/App.config
